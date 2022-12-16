@@ -16,7 +16,6 @@ public class Student extends Person{
         return "Student{" +
                 "school='" + school + '\'' +
                 ", name='" + name + '\'' +
-                ", jobTitle='" + jobTitle + '\'' +
                 ", age=" + age +
                 ", id=" + id +
                 ", gender=" + gender +
