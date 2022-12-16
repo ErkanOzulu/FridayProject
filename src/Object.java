@@ -8,6 +8,11 @@ public class Object {
         student.working();
         Teacher teacher=new Teacher("Alp",38,234234,'M');
 
+        System.out.println(developer);
+        System.out.println(teacher);
+        System.out.println(tester);
+        System.out.println(student);
+
 
 
 
