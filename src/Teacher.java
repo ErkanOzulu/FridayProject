@@ -8,4 +8,8 @@ public class Teacher extends Employee {
         System.out.println(name+" is teaching.");
     }
 
+    @Override
+    public void working() {
+        System.out.println(name+" is working.");
+    }
 }
